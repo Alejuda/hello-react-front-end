@@ -1,4 +1,4 @@
-import RandomGreeting from './routes/RandomGreeting';
+import RandomGreeting from './components/RandomGreeting';
 
 function App() {
 
